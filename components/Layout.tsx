@@ -145,7 +145,6 @@ export const Layout: React.FC<Props> = ({
                         />
                         </div>
                     )}
-                    <Footer not />
                 </div>
             </div>
         </>
