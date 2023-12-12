@@ -7,7 +7,6 @@ import {
     collectHeadings,
     Nav,
     Comments,
-    Footer,
     EditThisPage,
     TableOfContents,
     SiteToc,
@@ -146,7 +145,7 @@ export const Layout: React.FC<Props> = ({
                         />
                         </div>
                     )}
-                    <Footer links={nav.links} author={author} />
+                    <Footer not />
                 </div>
             </div>
         </>
