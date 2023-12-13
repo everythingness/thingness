@@ -1,6 +1,6 @@
 
 this website was made using free open source software :
-obsidian and the flowershow plug in.
+obsidian and the [flowershow](https://flowershow.app/) plug in.
 
 and it is hosted for free by github
 
