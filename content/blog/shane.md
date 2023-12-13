@@ -26,4 +26,3 @@ so it goes.
 
 RiP 🥲
 
-{{more}}
