@@ -5,7 +5,7 @@ not great.
 
 but this is :
 
-![[amerika.png]]
+![[assets/amerika.png]]
 
 ----------------------------------------------------------------
 
