@@ -1,5 +1,5 @@
 barbie police rotterdam
 
-![[rotterdam police station barbie lives there.jpg]]
+![[rotterdam-police.jpg]]
 
-[[20231211]]
+→
