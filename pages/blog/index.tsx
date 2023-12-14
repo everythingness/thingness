@@ -16,7 +16,7 @@ export default function Blog({
 }: BlogIndexPageProps) {
     return (
         <SimpleLayout title={title} description={description}>
-            <BlogsList blogs={blogs} />
+            <linksb blogs={blogs} />
         </SimpleLayout>
     );
 }
@@ -45,7 +45,7 @@ export const getStaticProps: GetStaticProps = async (): Promise<
     return {
         props: {
             meta: {
-                title: "Blog posts",
+                title: "links blog",
                 showSidebar: false,
                 showToc: false,
                 showComments: false,
