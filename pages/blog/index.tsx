@@ -16,7 +16,7 @@ export default function Blog({
 }: BlogIndexPageProps) {
     return (
         <SimpleLayout title={title} description={description}>
-            <linksb blogs={blogs} />
+            <bloglist={blogs} />
         </SimpleLayout>
     );
 }
